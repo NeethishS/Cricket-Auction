@@ -1,0 +1,8 @@
+Backend:
+cd c:\Cricket Auction
+node server/server.js
+
+frontend:
+cd c:\Cricket Auction
+npm run dev
+

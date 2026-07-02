@@ -1,0 +1,5149 @@
+[
+  {
+    "name": "Sachin Tendulkar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "matches": 664,
+      "runs": 34357,
+      "wickets": 201
+    },
+    "id": 26
+  },
+  {
+    "name": "MS Dhoni",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "matches": 538,
+      "runs": 17266,
+      "wickets": 1
+    },
+    "id": 22
+  },
+  {
+    "name": "Shane Warne",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 300,
+    "stats": {
+      "matches": 339,
+      "runs": 4172,
+      "wickets": 1001
+    },
+    "id": 25
+  },
+  {
+    "name": "AB de Villiers",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 300,
+    "stats": {
+      "runs": 20014,
+      "strikeRate": 132.14,
+      "matches": 420,
+      "wickets": 9
+    }
+  },
+  {
+    "name": "Jacques Kallis",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 300,
+    "stats": {
+      "matches": 519,
+      "runs": 25534,
+      "wickets": 577
+    },
+    "id": 28
+  },
+  {
+    "name": "Ricky Ponting",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 300,
+    "stats": {
+      "matches": 560,
+      "runs": 27483,
+      "wickets": 8
+    },
+    "id": 27
+  },
+  {
+    "name": "Muttiah Muralidaran",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 300,
+    "stats": {
+      "wickets": 1347,
+      "economy": 6.89,
+      "matches": 495,
+      "runs": 1936
+    },
+    "id": 29
+  },
+  {
+    "name": "Glenn McGrath",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 300,
+    "stats": {
+      "matches": 376,
+      "runs": 949,
+      "wickets": 949
+    },
+    "id": 30
+  },
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "matches": 532,
+      "runs": 28215,
+      "average": 58.67,
+      "strikeRate": 93.62,
+      "wickets": 8
+    },
+    "id": 1
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "matches": 212,
+      "wickets": 504,
+      "economy": 4.59,
+      "best": "6/19",
+      "runs": 216
+    },
+    "id": 2
+  },
+  {
+    "name": "Rashid Khan",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 300,
+    "stats": {
+      "matches": 238,
+      "wickets": 448,
+      "economy": 4.16,
+      "best": "7/18",
+      "runs": 2415
+    },
+    "id": 8
+  },
+  {
+    "id": 24,
+    "name": "Wasim Akram",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 300,
+    "stats": {
+      "matches": 460,
+      "runs": 6615,
+      "wickets": 916
+    }
+  },
+  {
+    "id": 350,
+    "name": "Brian Lara",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 300,
+    "stats": {
+      "matches": 430,
+      "runs": 22358,
+      "wickets": 4
+    }
+  },
+  {
+    "id": 377,
+    "name": "Ian Botham",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 300,
+    "stats": {
+      "matches": 218,
+      "runs": 7313,
+      "wickets": 528
+    }
+  },
+  {
+    "id": 378,
+    "name": "Imran Khan",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 300,
+    "stats": {
+      "matches": 263,
+      "runs": 7516,
+      "wickets": 544
+    }
+  },
+  {
+    "id": 379,
+    "name": "Kapil Dev",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "matches": 356,
+      "runs": 9031,
+      "wickets": 687
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 300,
+    "stats": {
+      "matches": 114,
+      "runs": 3463,
+      "average": 40.2,
+      "wickets": 74
+    }
+  },
+  {
+    "name": "Dale Steyn",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 300,
+    "stats": {
+      "matches": 265,
+      "runs": 1000,
+      "wickets": 699
+    },
+    "id": 47
+  },
+  {
+    "name": "Kumar Sangakkara",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 300,
+    "stats": {
+      "matches": 594,
+      "runs": 28016,
+      "wickets": 0
+    },
+    "id": 49
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "runs": 20109,
+      "strikeRate": 148.44,
+      "matches": 508,
+      "wickets": 11
+    }
+  },
+  {
+    "name": "Sir Don Bradman",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 300,
+    "stats": {
+      "matches": 52,
+      "runs": 6996,
+      "average": 99.94,
+      "strikeRate": 71.4
+    },
+    "id": 1201
+  },
+  {
+    "name": "Sir Viv Richards",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 300,
+    "stats": {
+      "matches": 308,
+      "runs": 15261,
+      "average": 48,
+      "wickets": 150
+    },
+    "id": 1202
+  },
+  {
+    "name": "Sir Garfield Sobers",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 300,
+    "stats": {
+      "matches": 93,
+      "runs": 8032,
+      "wickets": 235,
+      "average": 57.78
+    },
+    "id": 1203
+  },
+  {
+    "name": "Malcolm Marshall",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 300,
+    "stats": {
+      "matches": 217,
+      "wickets": 533,
+      "economy": 3.2,
+      "best": "7/22"
+    },
+    "id": 1204
+  },
+  {
+    "name": "Sir Richard Hadlee",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 300,
+    "stats": {
+      "matches": 201,
+      "runs": 4882,
+      "wickets": 589,
+      "economy": 3.05
+    },
+    "id": 1205
+  },
+  {
+    "name": "Rahul Dravid",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 300,
+    "stats": {
+      "matches": 508,
+      "runs": 24177,
+      "average": 52.31,
+      "wickets": 5
+    },
+    "id": 356
+  },
+  {
+    "name": "Sir Jack Hobbs",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 300,
+    "stats": {
+      "matches": 61,
+      "runs": 5410,
+      "average": 56.94,
+      "notable": "199 First-Class Centuries"
+    },
+    "id": 1301
+  },
+  {
+    "name": "Wally Hammond",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 300,
+    "stats": {
+      "matches": 85,
+      "runs": 7249,
+      "average": 58.45,
+      "wickets": 83
+    },
+    "id": 1302
+  },
+  {
+    "name": "George Headley",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 300,
+    "stats": {
+      "matches": 22,
+      "runs": 2190,
+      "average": 60.83
+    },
+    "id": 1303
+  },
+  {
+    "name": "Fred Trueman",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 300,
+    "stats": {
+      "matches": 67,
+      "wickets": 307,
+      "economy": 2.61,
+      "average": 21.57
+    },
+    "id": 1304
+  },
+  {
+    "name": "Virender Sehwag",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 374,
+      "runs": 17253,
+      "wickets": 136
+    },
+    "id": 349
+  },
+  {
+    "name": "Harbhajan Singh",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 367,
+      "runs": 3569,
+      "wickets": 711
+    },
+    "id": 395
+  },
+  {
+    "name": "Adam Gilchrist",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 396,
+      "runs": 15461,
+      "wickets": 0
+    },
+    "id": 23
+  },
+  {
+    "name": "Stephen Fleming",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 200,
+    "stats": {
+      "matches": 396,
+      "runs": 15319,
+      "wickets": 0
+    },
+    "id": 366
+  },
+  {
+    "name": "VVS Laxman",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 220,
+      "runs": 11119,
+      "wickets": 0
+    },
+    "id": 394
+  },
+  {
+    "name": "Sourav Ganguly",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 424,
+      "runs": 18575,
+      "wickets": 132
+    },
+    "id": 354
+  },
+  {
+    "name": "Yusuf Pathan",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 1046,
+      "strikeRate": 143.21,
+      "wickets": 46,
+      "economy": 7,
+      "matches": 79
+    }
+  },
+  {
+    "name": "Robin Uthappa",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 1183,
+      "strikeRate": 126.84,
+      "matches": 59,
+      "wickets": 0
+    }
+  },
+  {
+    "name": "Ambati Rayudu",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 1736,
+      "strikeRate": 129.09,
+      "matches": 61,
+      "wickets": 3
+    }
+  },
+  {
+    "name": "Morne Morkel",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "wickets": 545,
+      "economy": 6.94,
+      "matches": 254,
+      "runs": 1000
+    }
+  },
+  {
+    "name": "Sanath Jayasuriya",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 200,
+    "stats": {
+      "runs": 21032,
+      "strikeRate": 117.42,
+      "wickets": 440,
+      "economy": 7.54,
+      "matches": 586
+    }
+  },
+  {
+    "name": "Mahela Jayawardene",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 200,
+    "stats": {
+      "matches": 652,
+      "runs": 25957,
+      "wickets": 14
+    },
+    "id": 367
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 44,
+      "runs": 2271,
+      "average": 61.3,
+      "strikeRate": 103.4
+    },
+    "id": 23
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 31,
+      "runs": 865,
+      "average": 34.6,
+      "strikeRate": 154.2
+    },
+    "id": 13
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "wickets": 118,
+      "economy": 9
+    }
+  },
+  {
+    "name": "Axar Patel",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 2550,
+      "strikeRate": 146.01,
+      "wickets": 6,
+      "economy": 7.82
+    }
+  },
+  {
+    "name": "Travis Head",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 65,
+      "runs": 2500,
+      "average": 42.3,
+      "strikeRate": 105.4
+    },
+    "id": 4
+  },
+  {
+    "name": "Pat Cummins",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 219,
+      "wickets": 524,
+      "economy": 5.22,
+      "best": "5/70",
+      "runs": 1622
+    },
+    "id": 3
+  },
+  {
+    "name": "Mitchell Starc",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 300,
+      "wickets": 759,
+      "economy": 5.11,
+      "best": "6/28",
+      "runs": 2380
+    },
+    "id": 14
+  },
+  {
+    "name": "Glenn Maxwell",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 138,
+      "runs": 3895,
+      "strikeRate": 126.9,
+      "wickets": 64
+    },
+    "id": 24
+  },
+  {
+    "name": "Jos Buttler",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 200,
+    "stats": {
+      "matches": 411,
+      "runs": 12459,
+      "average": 39.5,
+      "strikeRate": 117.1,
+      "wickets": 0
+    },
+    "id": 26
+  },
+  {
+    "name": "Kagiso Rabada",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "matches": 258,
+      "wickets": 591,
+      "economy": 5.1,
+      "best": "4/39",
+      "runs": 1200
+    },
+    "id": 18
+  },
+  {
+    "name": "Kane Williamson",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 200,
+    "stats": {
+      "matches": 360,
+      "runs": 19292,
+      "average": 48.6,
+      "strikeRate": 81.2,
+      "wickets": 45
+    },
+    "id": 5
+  },
+  {
+    "name": "Nehal Wadhera",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 3890,
+      "strikeRate": 152.94
+    }
+  },
+  {
+    "name": "Will Jacks",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 200,
+    "stats": {
+      "runs": 2219,
+      "strikeRate": 129.57,
+      "wickets": 14,
+      "economy": 7.16
+    }
+  },
+  {
+    "name": "Nandre Burger",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "wickets": 43,
+      "economy": 8.94
+    }
+  },
+  {
+    "name": "Mitchell Santner",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 200,
+    "stats": {
+      "runs": 4837,
+      "strikeRate": 156.88,
+      "wickets": 77,
+      "economy": 7.91
+    }
+  },
+  {
+    "name": "Nuwan Thushara",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 200,
+    "stats": {
+      "matches": 18,
+      "runs": 0,
+      "wickets": 26,
+      "average": 16.73
+    }
+  },
+  {
+    "name": "Saurav Chauhan",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 3026,
+      "strikeRate": 120.9,
+      "wickets": 7,
+      "economy": 9.49
+    }
+  },
+  {
+    "name": "Avanish Rao Aravelly",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "runs": 2105,
+      "strikeRate": 133.69,
+      "wickets": 117,
+      "economy": 8.83
+    }
+  },
+  {
+    "id": 5,
+    "name": "Steve Smith",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 327,
+      "runs": 16212,
+      "wickets": 30
+    }
+  },
+  {
+    "id": 6,
+    "name": "Joe Root",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 200,
+    "stats": {
+      "matches": 350,
+      "runs": 22413,
+      "wickets": 70
+    }
+  },
+  {
+    "id": 7,
+    "name": "Babar Azam",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 346,
+      "runs": 15463,
+      "average": 56.7,
+      "strikeRate": 88.5,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 27,
+    "name": "Mohammad Rizwan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 74,
+      "runs": 2088,
+      "average": 40.1,
+      "strikeRate": 88.9
+    }
+  },
+  {
+    "id": 233,
+    "name": "Wasim Bari",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 132,
+      "runs": 1587,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 234,
+    "name": "Moin Khan",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 288,
+      "runs": 6007,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 235,
+    "name": "Kamran Akmal",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 268,
+      "runs": 6871,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 365,
+    "name": "Graeme Smith",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "matches": 347,
+      "runs": 17236,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 368,
+    "name": "Mohammad Yousuf",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 378,
+      "runs": 17300,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 369,
+    "name": "Zaheer Abbas",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 140,
+      "runs": 7634,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 370,
+    "name": "Javed Miandad",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 357,
+      "runs": 16213,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 371,
+    "name": "Saeed Anwar",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 302,
+      "runs": 12876,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 372,
+    "name": "Waqar Younis",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 349,
+      "runs": 3397,
+      "wickets": 789
+    }
+  },
+  {
+    "id": 373,
+    "name": "Abdul Qadir",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 171,
+      "runs": 1000,
+      "wickets": 368
+    }
+  },
+  {
+    "id": 374,
+    "name": "Richie Benaud",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 63,
+      "runs": 2201,
+      "wickets": 248
+    }
+  },
+  {
+    "id": 375,
+    "name": "Dennis Lillee",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 133,
+      "runs": 1000,
+      "wickets": 458
+    }
+  },
+  {
+    "id": 376,
+    "name": "Jeff Thompson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {}
+  },
+  {
+    "id": 388,
+    "name": "Courtney Walsh",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 200,
+    "stats": {
+      "matches": 337,
+      "runs": 1000,
+      "wickets": 746
+    }
+  },
+  {
+    "id": 389,
+    "name": "Shivnarine Chanderpaul",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 200,
+    "stats": {
+      "matches": 432,
+      "runs": 20988,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 398,
+    "name": "Sandeep Patil",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 74,
+      "runs": 2593,
+      "wickets": 24
+    }
+  },
+  {
+    "id": 399,
+    "name": "Ravi Shastri",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 230,
+      "runs": 6938,
+      "wickets": 280
+    }
+  },
+  {
+    "id": 400,
+    "name": "Maninder Singh",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {}
+  },
+  {
+    "id": 17,
+    "name": "Shaheen Afridi",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 53,
+      "wickets": 104,
+      "economy": 5.42,
+      "best": "6/35"
+    }
+  },
+  {
+    "name": "Alastair Cook",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 200,
+    "stats": {
+      "matches": 161,
+      "runs": 12472,
+      "average": 45.35,
+      "strikeRate": 52
+    },
+    "id": 1101
+  },
+  {
+    "name": "Marnus Labuschagne",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 50,
+      "runs": 3900,
+      "average": 53,
+      "strikeRate": 60.5
+    },
+    "id": 1104
+  },
+  {
+    "name": "Aiden Markram",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "matches": 45,
+      "runs": 2800,
+      "average": 38,
+      "strikeRate": 96.5
+    },
+    "id": 1105
+  },
+  {
+    "name": "Sunil Gavaskar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 233,
+      "runs": 13214,
+      "average": 46.2
+    },
+    "id": 1206
+  },
+  {
+    "name": "Shoaib Akhtar",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 200,
+    "stats": {
+      "matches": 224,
+      "wickets": 444,
+      "economy": 4.76,
+      "best": "6/11"
+    },
+    "id": 1207
+  },
+  {
+    "name": "Jonty Rhodes",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "matches": 297,
+      "runs": 8467,
+      "average": 33.5,
+      "strikeRate": 80.9
+    },
+    "id": 1208
+  },
+  {
+    "name": "Andrew Symonds",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 200,
+    "stats": {
+      "matches": 238,
+      "runs": 6887,
+      "wickets": 165,
+      "strikeRate": 92.4
+    },
+    "id": 1209
+  },
+  {
+    "name": "Lance Klusener",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "matches": 220,
+      "runs": 5482,
+      "wickets": 272,
+      "strikeRate": 89.9
+    },
+    "id": 1210
+  },
+  {
+    "name": "Makhaya Ntini",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 200,
+    "stats": {
+      "matches": 284,
+      "wickets": 665,
+      "economy": 4.53,
+      "best": "7/37"
+    },
+    "id": 1211
+  },
+  {
+    "name": "Andy Flower",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Zimbabwe",
+    "basePrice": 200,
+    "stats": {
+      "matches": 276,
+      "runs": 11580,
+      "average": 51.54,
+      "wickets": 0
+    },
+    "id": 1305
+  },
+  {
+    "name": "Javagal Srinath",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 200,
+    "stats": {
+      "matches": 296,
+      "wickets": 551,
+      "economy": 4.1,
+      "best": "8/86"
+    },
+    "id": 1306
+  },
+  {
+    "name": "Aravinda de Silva",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 200,
+    "stats": {
+      "matches": 401,
+      "runs": 15645,
+      "wickets": 135,
+      "average": 40
+    },
+    "id": 1307
+  },
+  {
+    "name": "Gautam Gambhir",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 242,
+      "runs": 10324,
+      "wickets": 0
+    },
+    "id": 57
+  },
+  {
+    "name": "Yuvraj Singh",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 402,
+      "runs": 11778,
+      "wickets": 148
+    },
+    "id": 46
+  },
+  {
+    "name": "Lasith Malinga",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {
+      "matches": 340,
+      "runs": 1000,
+      "wickets": 546
+    },
+    "id": 74
+  },
+  {
+    "name": "Dwayne Bravo",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 295,
+      "runs": 6423,
+      "wickets": 363
+    },
+    "id": 63
+  },
+  {
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 224,
+      "runs": 4275,
+      "wickets": 97
+    },
+    "id": 59
+  },
+  {
+    "name": "Shane Watson",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {
+      "matches": 307,
+      "runs": 10950,
+      "wickets": 291
+    },
+    "id": 64
+  },
+  {
+    "name": "Anil Kumble",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 403,
+      "runs": 2506,
+      "wickets": 956
+    },
+    "id": 48
+  },
+  {
+    "name": "Brendon McCullum",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {
+      "matches": 432,
+      "runs": 14676,
+      "wickets": 0
+    },
+    "id": 56
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 148,
+      "runs": 4024,
+      "wickets": 0
+    },
+    "id": 54
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 211,
+      "runs": 4724,
+      "wickets": 211
+    },
+    "id": 38
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 373,
+      "runs": 7515,
+      "wickets": 634
+    },
+    "id": 60
+  },
+  {
+    "name": "KL Rahul",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 199,
+      "runs": 9678,
+      "wickets": 0
+    },
+    "id": 67
+  },
+  {
+    "name": "Rinku Singh",
+    "role": "Finisher",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 47,
+      "runs": 720,
+      "wickets": 0
+    },
+    "id": 16
+  },
+  {
+    "name": "David Warner",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {
+      "matches": 383,
+      "runs": 18995,
+      "wickets": 4
+    },
+    "id": 33
+  },
+  {
+    "name": "Phil Salt",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "matches": 50,
+      "runs": 2705,
+      "wickets": 0
+    },
+    "id": 307
+  },
+  {
+    "name": "Harry Brook",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "matches": 15,
+      "runs": 480,
+      "average": 32,
+      "strikeRate": 125.8
+    },
+    "id": 16
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "matches": 54,
+      "runs": 1723,
+      "average": 40.1,
+      "strikeRate": 115.6
+    },
+    "id": 9
+  },
+  {
+    "name": "Quinton de Kock",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "matches": 325,
+      "runs": 13518,
+      "wickets": 0
+    },
+    "id": 68
+  },
+  {
+    "name": "David Miller",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "matches": 173,
+      "runs": 4458,
+      "average": 42.8,
+      "strikeRate": 103.5
+    },
+    "id": 28
+  },
+  {
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 143,
+      "runs": 2158,
+      "wickets": 132
+    },
+    "id": 58
+  },
+  {
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 122,
+      "runs": 558,
+      "wickets": 165
+    },
+    "id": 65
+  },
+  {
+    "name": "Nicholas Pooran",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 61,
+      "runs": 1983,
+      "average": 39.6,
+      "strikeRate": 100.2
+    },
+    "id": 29
+  },
+  {
+    "name": "Trent Boult",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {
+      "matches": 253,
+      "runs": 850,
+      "wickets": 611
+    },
+    "id": 70
+  },
+  {
+    "name": "Wanindu Hasaranga",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {
+      "matches": 54,
+      "wickets": 78,
+      "economy": 5.08,
+      "runs": 850
+    },
+    "id": 10
+  },
+  {
+    "name": "Matheesha Pathirana",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {
+      "matches": 30,
+      "runs": 0,
+      "wickets": 57
+    },
+    "id": 13
+  },
+  {
+    "name": "Daryl Mitchell",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {
+      "matches": 39,
+      "runs": 1577,
+      "average": 52.5,
+      "strikeRate": 94.2
+    },
+    "id": 25
+  },
+  {
+    "name": "Marcus Stoinis",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {
+      "matches": 158,
+      "runs": 2911,
+      "wickets": 101
+    },
+    "id": 311
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "wickets": 98,
+      "economy": 8.01
+    }
+  },
+  {
+    "name": "Umran Malik",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 18,
+      "runs": 0,
+      "wickets": 24
+    },
+    "id": 244
+  },
+  {
+    "name": "Ishan Kishan",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 74,
+      "runs": 2339,
+      "wickets": 0
+    },
+    "id": 9
+  },
+  {
+    "name": "Sanju Samson",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 77,
+      "runs": 1909,
+      "wickets": 0
+    },
+    "id": 69
+  },
+  {
+    "name": "Harshal Patel",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "wickets": 65,
+      "economy": 9.55
+    }
+  },
+  {
+    "name": "Tushar Deshpande",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 2,
+      "runs": 0,
+      "wickets": 2
+    },
+    "id": 242
+  },
+  {
+    "name": "Abhishek Sharma",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 46,
+      "runs": 1438,
+      "wickets": 0
+    },
+    "id": 10
+  },
+  {
+    "name": "Cameron Green",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {},
+    "id": 15
+  },
+  {
+    "name": "Jake Fraser-McGurk",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {
+      "matches": 15,
+      "runs": 213,
+      "wickets": 0
+    },
+    "id": 157
+  },
+  {
+    "name": "Spencer Johnson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {
+      "matches": 13,
+      "runs": 0,
+      "wickets": 18
+    },
+    "id": 156
+  },
+  {
+    "name": "Jason Behrendorff",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {
+      "wickets": 101,
+      "economy": 7.27
+    }
+  },
+  {
+    "name": "Jonny Bairstow",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "runs": 1428,
+      "strikeRate": 132.89
+    }
+  },
+  {
+    "name": "Mark Wood",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "matches": 137,
+      "runs": 1000,
+      "wickets": 253
+    },
+    "id": 318
+  },
+  {
+    "name": "Reece Topley",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "matches": 65,
+      "runs": 0,
+      "wickets": 80
+    },
+    "id": 316
+  },
+  {
+    "name": "Tom Kohler-Cadmore",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "runs": 4985,
+      "strikeRate": 157.6
+    }
+  },
+  {
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "matches": 262,
+      "runs": 11198,
+      "wickets": 0
+    },
+    "id": 52
+  },
+  {
+    "name": "Gerald Coetzee",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "matches": 33,
+      "runs": 200,
+      "wickets": 62
+    },
+    "id": 155
+  },
+  {
+    "name": "Tristan Stubbs",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "matches": 82,
+      "runs": 2139,
+      "wickets": 0
+    },
+    "id": 220
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 155,
+      "runs": 3974,
+      "wickets": 0
+    },
+    "id": 253
+  },
+  {
+    "name": "Rovman Powell",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 168,
+      "runs": 3240,
+      "wickets": 0
+    },
+    "id": 252
+  },
+  {
+    "name": "Jason Holder",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 280,
+      "runs": 6198,
+      "wickets": 422
+    },
+    "id": 256
+  },
+  {
+    "name": "Kyle Mayers",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 87,
+      "runs": 2382,
+      "wickets": 30
+    },
+    "id": 297
+  },
+  {
+    "name": "Romario Shepherd",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {},
+    "id": 255
+  },
+  {
+    "name": "Sherfane Rutherford",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {},
+    "id": 254
+  },
+  {
+    "name": "Lockie Ferguson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {
+      "wickets": 33,
+      "economy": 9.9
+    }
+  },
+  {
+    "name": "Maheesh Theekshana",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {},
+    "id": 261
+  },
+  {
+    "name": "Dilshan Madushanka",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {},
+    "id": 293
+  },
+  {
+    "name": "Fazalhaq Farooqi",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 150,
+    "stats": {
+      "wickets": 74,
+      "economy": 7.49
+    }
+  },
+  {
+    "name": "Sumit Kumar",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "wickets": 142,
+      "economy": 9.4
+    }
+  },
+  {
+    "name": "Shivalik Sharma",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "runs": 3396,
+      "strikeRate": 142.2
+    }
+  },
+  {
+    "name": "Luke Wood",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "matches": 16,
+      "runs": 4,
+      "wickets": 19,
+      "average": 22.47
+    }
+  },
+  {
+    "name": "Yash Dayal",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {},
+    "id": 241
+  },
+  {
+    "name": "Prashant Solanki",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 15,
+      "runs": 5,
+      "wickets": 18,
+      "economy": 6.33
+    }
+  },
+  {
+    "id": 8,
+    "name": "Finn Allen",
+    "role": "Opener",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 11,
+    "name": "Prashant Veer",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 12,
+    "name": "Kartik Sharma",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 19,
+    "name": "Sarfaraz Khan",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 53,
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 141,
+    "name": "Sahibzada Farhan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 142,
+    "name": "Tim Seifert",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 152,
+    "name": "Jacob Bethell",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 206,
+    "name": "Brian Bennett",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Zimbabwe",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 209,
+    "name": "Ryan Rickelton",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 212,
+    "name": "Alex Carey",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 214,
+    "name": "Mushfiqur Rahim",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Bangladesh",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 215,
+    "name": "Kusal Mendis",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 216,
+    "name": "Litton Das",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Bangladesh",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 217,
+    "name": "Jamie Smith",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 218,
+    "name": "Tom Latham",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 222,
+    "name": "Shaheen Shah Afridi",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 223,
+    "name": "Naseem Shah",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 224,
+    "name": "Haris Rauf",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 225,
+    "name": "Shadab Khan",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 227,
+    "name": "Saim Ayub",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 228,
+    "name": "Usman Khan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 229,
+    "name": "Abrar Ahmed",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 230,
+    "name": "Salman Ali Agha",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 231,
+    "name": "Abdullah Shafique",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 232,
+    "name": "Saud Shakeel",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 236,
+    "name": "Sarfaraz Khan (PAK)",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 243,
+    "name": "Kartik Tyagi",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 245,
+    "name": "Sandeep Warrier",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 257,
+    "name": "Akeal Hosein",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 258,
+    "name": "Gudakesh Motie",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 264,
+    "name": "Dunith Wellalage",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 265,
+    "name": "Charith Asalanka",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 286,
+    "name": "Dhananjaya de Silva",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 288,
+    "name": "Dimuth Karunaratne",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 289,
+    "name": "Kusal Perera",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 290,
+    "name": "Sadeera Samarawickrama",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 291,
+    "name": "Lahiru Kumara",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 292,
+    "name": "Dushmantha Chameera",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 294,
+    "name": "Jeffrey Vandersay",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 295,
+    "name": "Johnson Charles",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 127,
+      "runs": 3062,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 299,
+    "name": "Obed McCoy",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {
+      "matches": 58,
+      "runs": 120,
+      "wickets": 56
+    }
+  },
+  {
+    "id": 300,
+    "name": "Matthew Forde",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 308,
+    "name": "Tom Banton",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 309,
+    "name": "Ben Foakes",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 310,
+    "name": "Josh Inglis",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 312,
+    "name": "Odean Smith",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 314,
+    "name": "Roston Chase",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 317,
+    "name": "Tymal Mills",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 319,
+    "name": "Ollie Robinson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 323,
+    "name": "Tabraiz Shamsi",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 353,
+    "name": "Sandeep Lamichhane",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Nepal",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 359,
+    "name": "Joshua Little",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Ireland",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "id": 360,
+    "name": "Auqib Nabi",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {}
+  },
+  {
+    "name": "Marco Jansen",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 150,
+    "stats": {
+      "runs": 1274,
+      "strikeRate": 155.11,
+      "wickets": 70,
+      "economy": 3.8,
+      "matches": 30,
+      "best": "6/19"
+    },
+    "id": 1106
+  },
+  {
+    "name": "Cheteshwar Pujara",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 150,
+    "stats": {
+      "matches": 103,
+      "runs": 7195,
+      "average": 43.6,
+      "strikeRate": 44.4
+    },
+    "id": 1102
+  },
+  {
+    "name": "Dawid Malan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 150,
+    "stats": {
+      "matches": 60,
+      "runs": 1800,
+      "average": 36,
+      "strikeRate": 130
+    },
+    "id": 1112
+  },
+  {
+    "name": "Saeed Ajmal",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {
+      "matches": 212,
+      "wickets": 447,
+      "economy": 4.3,
+      "best": "7/55"
+    },
+    "id": 1212
+  },
+  {
+    "id": 133,
+    "name": "Shane Bond",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 150,
+    "stats": {
+      "matches": 120,
+      "wickets": 259,
+      "economy": 4.2,
+      "best": "6/19"
+    }
+  },
+  {
+    "name": "Ajantha Mendis",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 150,
+    "stats": {
+      "matches": 145,
+      "wickets": 288,
+      "economy": 4.8,
+      "best": "6/8"
+    },
+    "id": 1308
+  },
+  {
+    "name": "Abdul Razzaq",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 150,
+    "stats": {
+      "matches": 343,
+      "runs": 7377,
+      "wickets": 389,
+      "strikeRate": 81.2
+    },
+    "id": 1309
+  },
+  {
+    "name": "Zaheer Khan",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "matches": 309,
+      "runs": 2485,
+      "wickets": 610
+    },
+    "id": 101
+  },
+  {
+    "name": "Matthew Hayden",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "matches": 273,
+      "runs": 15066,
+      "wickets": 0
+    },
+    "id": 87
+  },
+  {
+    "name": "Shaun Pollock",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 423,
+      "runs": 7386,
+      "wickets": 829
+    },
+    "id": 98
+  },
+  {
+    "name": "Michael Hussey",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "matches": 302,
+      "runs": 12398,
+      "wickets": 0
+    },
+    "id": 88
+  },
+  {
+    "name": "Brad Hogg",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 40,
+      "economy": 7.16
+    }
+  },
+  {
+    "name": "Piyush Chawla",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "matches": 192,
+      "runs": 624,
+      "wickets": 185,
+      "economy": 7.88
+    }
+  },
+  {
+    "name": "Daniel Vettori",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {},
+    "id": 129
+  },
+  {
+    "name": "Ross Taylor",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {},
+    "id": 119
+  },
+  {
+    "name": "Eoin Morgan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {},
+    "id": 84
+  },
+  {
+    "name": "Kevin Pietersen",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {
+      "matches": 277,
+      "runs": 13797,
+      "wickets": 18
+    },
+    "id": 121
+  },
+  {
+    "name": "Paul Collingwood",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {
+      "matches": 304,
+      "runs": 9934,
+      "wickets": 144
+    },
+    "id": 127
+  },
+  {
+    "name": "Andrew Flintoff",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {
+      "matches": 227,
+      "runs": 7315,
+      "wickets": 400
+    },
+    "id": 125
+  },
+  {
+    "name": "Shaun Marsh",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "matches": 126,
+      "runs": 5293,
+      "wickets": 0
+    },
+    "id": 89
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 76
+  },
+  {
+    "name": "Arshdeep Singh",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 176
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 78
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 81
+  },
+  {
+    "name": "Adam Zampa",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 68,
+      "economy": 9.13
+    }
+  },
+  {
+    "name": "Sam Curran",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {},
+    "id": 94
+  },
+  {
+    "name": "Rachin Ravindra",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {
+      "matches": 111,
+      "runs": 3709,
+      "wickets": 58,
+      "average": 41
+    },
+    "id": 15
+  },
+  {
+    "name": "Ishant Sharma",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 102
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "matches": 38,
+      "runs": 450,
+      "wickets": 47
+    },
+    "id": 104
+  },
+  {
+    "name": "Shardul Thakur",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "matches": 85,
+      "runs": 775,
+      "wickets": 131
+    },
+    "id": 272
+  },
+  {
+    "name": "Avesh Khan",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 177
+  },
+  {
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 271
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 172
+  },
+  {
+    "name": "Nitish Rana",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 301
+  },
+  {
+    "name": "Rahul Tripathi",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 170
+  },
+  {
+    "name": "Deepak Hooda",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 303
+  },
+  {
+    "name": "Mohammed Siraj",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "matches": 110,
+      "runs": 250,
+      "wickets": 232
+    },
+    "id": 103
+  },
+  {
+    "name": "Prasidh Krishna",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "matches": 34,
+      "runs": 60,
+      "wickets": 70
+    },
+    "id": 159
+  },
+  {
+    "name": "Navdeep Saini",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 25,
+      "economy": 7.44
+    }
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 7,
+      "economy": 7.13
+    }
+  },
+  {
+    "name": "Khaleel Ahmed",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 179
+  },
+  {
+    "name": "Mukesh Kumar",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 178
+  },
+  {
+    "name": "Mohit Rathee",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "runs": 3965,
+      "strikeRate": 135.65,
+      "wickets": 69,
+      "economy": 9.45
+    }
+  },
+  {
+    "name": "Tilak Varma",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 171
+  },
+  {
+    "name": "Sai Sudharsan",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 158
+  },
+  {
+    "name": "Jitesh Sharma",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 173
+  },
+  {
+    "name": "Dhruv Jurel",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "runs": 1329,
+      "strikeRate": 122.04
+    }
+  },
+  {
+    "name": "Josh Hazlewood",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "matches": 244,
+      "runs": 1200,
+      "wickets": 516
+    },
+    "id": 107
+  },
+  {
+    "name": "Moeen Ali",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {
+      "runs": 3762,
+      "strikeRate": 146.55,
+      "wickets": 107,
+      "economy": 9.01
+    }
+  },
+  {
+    "name": "Chris Woakes",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {},
+    "id": 139
+  },
+  {
+    "name": "Gus Atkinson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 111,
+      "economy": 8.79
+    }
+  },
+  {
+    "name": "Anrich Nortje",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {},
+    "id": 108
+  },
+  {
+    "name": "Lungi Ngidi",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {},
+    "id": 140
+  },
+  {
+    "name": "Alzarri Joseph",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {
+      "matches": 63,
+      "wickets": 104,
+      "economy": 5.3,
+      "best": "5/56"
+    },
+    "id": 19
+  },
+  {
+    "name": "Shai Hope",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {
+      "matches": 121,
+      "runs": 5132,
+      "average": 51.3,
+      "strikeRate": 77.4
+    },
+    "id": 11
+  },
+  {
+    "name": "Devon Conway",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {},
+    "id": 90
+  },
+  {
+    "name": "Glenn Phillips",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {
+      "runs": 4419,
+      "strikeRate": 139.69
+    }
+  },
+  {
+    "name": "Matt Henry",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 90,
+      "economy": 9.74
+    }
+  },
+  {
+    "name": "Pathum Nissanka",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 100,
+    "stats": {
+      "runs": 4268,
+      "strikeRate": 133.68
+    }
+  },
+  {
+    "name": "Noor Ahmad",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 100,
+    "stats": {},
+    "id": 160
+  },
+  {
+    "name": "Rahmanullah Gurbaz",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 100,
+    "stats": {
+      "matches": 38,
+      "runs": 1267,
+      "average": 33.3,
+      "strikeRate": 92.1
+    },
+    "id": 20
+  },
+  {
+    "name": "Sikandar Raza",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Zimbabwe",
+    "basePrice": 100,
+    "stats": {
+      "matches": 142,
+      "runs": 4122,
+      "wickets": 88,
+      "average": 36.8
+    },
+    "id": 12
+  },
+  {
+    "name": "Mayank Agarwal",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 79
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 82
+  },
+  {
+    "name": "Umesh Yadav",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "wickets": 22,
+      "economy": 9.54
+    }
+  },
+  {
+    "name": "Dinesh Karthik",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "runs": 2250,
+      "strikeRate": 125.26
+    }
+  },
+  {
+    "name": "Wriddhiman Saha",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 100
+  },
+  {
+    "name": "Rahul Chahar",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 112
+  },
+  {
+    "name": "Rahul Tewatia",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 306
+  },
+  {
+    "name": "Mahipal Lomror",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "runs": 2133,
+      "strikeRate": 151.22
+    }
+  },
+  {
+    "name": "Shahbaz Ahmed",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 330
+  },
+  {
+    "name": "Mayank Dagar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "runs": 3720,
+      "strikeRate": 149.6
+    }
+  },
+  {
+    "name": "Ramandeep Singh",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 331
+  },
+  {
+    "name": "Kummer Kushagra",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {
+      "runs": 4746,
+      "strikeRate": 125.1
+    }
+  },
+  {
+    "name": "Naman Dhir",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 274
+  },
+  {
+    "name": "Swapnil Singh",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 279
+  },
+  {
+    "name": "Shivam Dube",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {},
+    "id": 175
+  },
+  {
+    "id": 80,
+    "name": "Murali Vijay",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 85,
+    "name": "Aaron Finch",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 86,
+    "name": "Chris Lynn",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 91,
+    "name": "R. van der Dussen",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 93,
+    "name": "Mitchell Marsh",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 96,
+    "name": "Angelo Mathews",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 97,
+    "name": "Shakib Al Hasan",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Bangladesh",
+    "basePrice": 100,
+    "stats": {
+      "matches": 440,
+      "runs": 14730,
+      "wickets": 712
+    }
+  },
+  {
+    "id": 99,
+    "name": "Chris Cairns",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 105,
+    "name": "Ashish Nehra",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 106,
+    "name": "Jofra Archer",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 109,
+    "name": "Allan Donald",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 236,
+      "runs": 1000,
+      "wickets": 602
+    }
+  },
+  {
+    "id": 110,
+    "name": "Curtly Ambrose",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {
+      "matches": 274,
+      "runs": 1000,
+      "wickets": 630
+    }
+  },
+  {
+    "id": 113,
+    "name": "Nathan Lyon",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 114,
+    "name": "Graeme Swann",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 115,
+    "name": "Martin Guptill",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 116,
+    "name": "Alex Hales",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 117,
+    "name": "Jason Roy",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 118,
+    "name": "Colin Munro",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 120,
+    "name": "Hashim Amla",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 349,
+      "runs": 18672,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 122,
+    "name": "Brad Haddin",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 123,
+    "name": "Mark Boucher",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 124,
+    "name": "Ian Healy",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 126,
+    "name": "Scott Styris",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 128,
+    "name": "R. ten Doeschate",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Netherlands ",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 130,
+    "name": "James Anderson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 131,
+    "name": "Stuart Broad",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 132,
+    "name": "Chaminda Vaas",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 100,
+    "stats": {
+      "matches": 439,
+      "runs": 5147,
+      "wickets": 761
+    }
+  },
+  {
+    "id": 134,
+    "name": "Saqlain Mushtaq",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 135,
+    "name": "Michael Bevan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 136,
+    "name": "Misbah-ul-Haq",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 100,
+    "stats": {
+      "matches": 276,
+      "runs": 11132,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 137,
+    "name": "Inzamam-ul-Haq",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 100,
+    "stats": {
+      "matches": 499,
+      "runs": 20580,
+      "wickets": 0
+    }
+  },
+  {
+    "id": 138,
+    "name": "Tillakaratne Dilshan",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 145,
+    "name": "Abhimanyu Easwaran",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 146,
+    "name": "N. Jagadeesan",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 147,
+    "name": "Mayank Yadav",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 148,
+    "name": "Kevin O'Brien",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Ireland ",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 149,
+    "name": "Joel Garner",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {
+      "matches": 156,
+      "runs": 1000,
+      "wickets": 405
+    }
+  },
+  {
+    "id": 150,
+    "name": "Michael Holding",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {
+      "matches": 162,
+      "runs": 1000,
+      "wickets": 391
+    }
+  },
+  {
+    "id": 161,
+    "name": "Bas de Leede",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Netherlands",
+    "basePrice": 100,
+    "stats": {
+      "matches": 49,
+      "runs": 881,
+      "wickets": 44
+    }
+  },
+  {
+    "id": 162,
+    "name": "Dipendra Singh Airee",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Nepal",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 163,
+    "name": "Yuvraj Samra",
+    "role": "Opener",
+    "nationality": "Overseas",
+    "country": "Canada",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 164,
+    "name": "Gerhard Erasmus",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Namibia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 165,
+    "name": "Shubham Ranjane",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "USA",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 166,
+    "name": "Ben Manenti",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Italy",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 167,
+    "name": "Shadley van Schalkwyk",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "USA",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 168,
+    "name": "Michael Leask",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Scotland",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 169,
+    "name": "Aryan Dutt",
+    "role": "Spinner",
+    "nationality": "Overseas",
+    "country": "Netherlands ",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 174,
+    "name": "KS Bharat",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 180,
+    "name": "Jesse Ryder",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 181,
+    "name": "Corey Anderson",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "USA",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 182,
+    "name": "Carlos Brathwaite",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 183,
+    "name": "Darren Sammy",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 184,
+    "name": "C. de Grandhomme",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 185,
+    "name": "Owais Shah",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 186,
+    "name": "Swapnil Asnodkar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 187,
+    "name": "Jonathan Trott",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 188,
+    "name": "Ian Bell",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 189,
+    "name": "Michael Clarke",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 190,
+    "name": "Graeme Hick",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 191,
+    "name": "M. Trescothick",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 192,
+    "name": "Upul Tharanga",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 193,
+    "name": "Marlon Samuels",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 194,
+    "name": "Tamim Iqbal",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Bangladesh ",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 195,
+    "name": "Fakhar Zaman",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 196,
+    "name": "Imam-ul-Haq",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 197,
+    "name": "Abhinav Mukund",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 198,
+    "name": "Faiz Fazal",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 199,
+    "name": "Priyank Panchal",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 200,
+    "name": "Baba Aparajith",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 267,
+    "name": "Vaibhav Suryavanshi",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 268,
+    "name": "Kumar Kushagra",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 270,
+    "name": "Ashok Sharma",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 273,
+    "name": "Rajat Patidar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 275,
+    "name": "Raj Angad Bawa",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 276,
+    "name": "Robin Minz",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 277,
+    "name": "Jalaj Saxena",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 278,
+    "name": "Saurabh Kumar",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 280,
+    "name": "Vasuki Koushik",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 282,
+    "name": "Aditya Sarwate",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 283,
+    "name": "Priyansh Arya",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 285,
+    "name": "Ankit Kumar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 304,
+    "name": "Manan Vohra",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 327,
+    "name": "Vishnu Vinod",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 328,
+    "name": "R Samarth",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 329,
+    "name": "Yash Dhull",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 332,
+    "name": "Shams Mulani",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 333,
+    "name": "Kuldeep Sen",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 334,
+    "name": "Akash Madhwal",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 335,
+    "name": "Mohsin Khan",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 336,
+    "name": "Yash Thakur",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 338,
+    "name": "Ryan Sidebottom",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 339,
+    "name": "Tim Bresnan",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 340,
+    "name": "Luke Wright",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 341,
+    "name": "Ravi Rampaul",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {}
+  },
+  {
+    "id": 342,
+    "name": "Charl Langeveldt",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 86,
+      "runs": 100,
+      "wickets": 129
+    }
+  },
+  {
+    "id": 343,
+    "name": "Andre Nel",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 117,
+      "runs": 500,
+      "wickets": 231
+    }
+  },
+  {
+    "name": "Dean Elgar",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 85,
+      "runs": 5200,
+      "average": 37,
+      "strikeRate": 48
+    },
+    "id": 1103
+  },
+  {
+    "name": "Neil Wagner",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {
+      "matches": 64,
+      "wickets": 260,
+      "economy": 3.3,
+      "best": "7/39"
+    },
+    "id": 1107
+  },
+  {
+    "name": "Kemar Roach",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 100,
+    "stats": {
+      "matches": 80,
+      "wickets": 270,
+      "economy": 3.4,
+      "best": "6/48"
+    },
+    "id": 1108
+  },
+  {
+    "name": "Mohammad Abbas",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Pakistan",
+    "basePrice": 100,
+    "stats": {
+      "matches": 27,
+      "wickets": 100,
+      "economy": 2.9,
+      "best": "6/11"
+    },
+    "id": 1109
+  },
+  {
+    "name": "Ben Duckett",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 100,
+    "stats": {
+      "matches": 30,
+      "runs": 1500,
+      "average": 36,
+      "strikeRate": 85
+    },
+    "id": 1110
+  },
+  {
+    "name": "Ashton Turner",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 100,
+    "stats": {
+      "matches": 35,
+      "runs": 800,
+      "average": 28,
+      "strikeRate": 135
+    },
+    "id": 1111
+  },
+  {
+    "name": "Temba Bavuma",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 100,
+    "stats": {
+      "matches": 60,
+      "runs": 3000,
+      "average": 35.5,
+      "strikeRate": 85
+    },
+    "id": 1113
+  },
+  {
+    "name": "Douglas Marillier",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Zimbabwe",
+    "basePrice": 100,
+    "stats": {
+      "matches": 74,
+      "runs": 1150,
+      "strikeRate": 85,
+      "wickets": 15
+    },
+    "id": 1213
+  },
+  {
+    "name": "Tatenda Taibu",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Zimbabwe",
+    "basePrice": 100,
+    "stats": {
+      "matches": 206,
+      "runs": 5123,
+      "average": 30,
+      "wickets": 2
+    },
+    "id": 1214
+  },
+  {
+    "name": "Mohammad Ashraful",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Bangladesh",
+    "basePrice": 100,
+    "stats": {
+      "matches": 261,
+      "runs": 6655,
+      "average": 25,
+      "wickets": 39
+    },
+    "id": 1215
+  },
+  {
+    "name": "Chris Harris",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "New Zealand",
+    "basePrice": 100,
+    "stats": {
+      "matches": 273,
+      "runs": 5156,
+      "wickets": 219,
+      "economy": 4.28
+    },
+    "id": 1310
+  },
+  {
+    "id": 111,
+    "name": "Varun Chakaravarthy",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "wickets": 106,
+      "economy": 7.7
+    }
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "wickets": 101,
+      "economy": 7.22
+    }
+  },
+  {
+    "name": "Amit Mishra",
+    "role": "Spinner",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "wickets": 190,
+      "economy": 7.38
+    }
+  },
+  {
+    "name": "Shahrukh Khan",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "runs": 2349,
+      "strikeRate": 156.45
+    }
+  },
+  {
+    "name": "Siddarth Kaul",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "matches": 54,
+      "runs": 205,
+      "wickets": 58,
+      "economy": 8.59
+    }
+  },
+  {
+    "name": "Anuj Rawat",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "runs": 2797,
+      "strikeRate": 141.81,
+      "wickets": 62,
+      "economy": 8.49
+    }
+  },
+  {
+    "name": "Kwena Maphaka",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 75,
+    "stats": {
+      "matches": 17,
+      "runs": 26,
+      "wickets": 10,
+      "economy": 9.8
+    }
+  },
+  {
+    "name": "Arjun Tendulkar",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "wickets": 54,
+      "economy": 8.74
+    }
+  },
+  {
+    "name": "Simarjeet Singh",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 75,
+    "stats": {
+      "wickets": 75,
+      "economy": 8.03
+    }
+  },
+  {
+    "name": "Suresh Raina",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 4205,
+      "strikeRate": 140.1
+    }
+  },
+  {
+    "name": "Chris Gayle",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "West Indies",
+    "basePrice": 50,
+    "stats": {
+      "runs": 19593,
+      "strikeRate": 143.28,
+      "matches": 483,
+      "wickets": 260
+    }
+  },
+  {
+    "name": "Brett Lee",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 50,
+    "stats": {
+      "wickets": 718,
+      "economy": 7.55,
+      "matches": 321,
+      "runs": 2740
+    }
+  },
+  {
+    "name": "Irfan Pathan",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 5806,
+      "strikeRate": 140.02,
+      "wickets": 167,
+      "economy": 6.86
+    }
+  },
+  {
+    "name": "Albie Morkel",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 50,
+    "stats": {
+      "runs": 3842,
+      "strikeRate": 136.01,
+      "wickets": 77,
+      "economy": 7.96
+    }
+  },
+  {
+    "name": "Mitchell Johnson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 50,
+    "stats": {
+      "wickets": 590,
+      "economy": 7.56,
+      "matches": 256,
+      "runs": 3100
+    }
+  },
+  {
+    "name": "Sandeep Sharma",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "wickets": 105,
+      "economy": 9.41
+    }
+  },
+  {
+    "name": "T Natarajan",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "wickets": 17,
+      "economy": 9.61
+    }
+  },
+  {
+    "name": "Krunal Pandya",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 1633,
+      "strikeRate": 142.12,
+      "wickets": 150,
+      "economy": 9.07
+    }
+  },
+  {
+    "name": "Abdul Samad",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 1955,
+      "strikeRate": 152.66
+    }
+  },
+  {
+    "name": "Ayush Badoni",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 2383,
+      "strikeRate": 146.18,
+      "wickets": 101,
+      "economy": 7.3
+    }
+  },
+  {
+    "name": "Nathan Ellis",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 50,
+    "stats": {
+      "wickets": 21,
+      "economy": 7.5
+    }
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 50,
+    "stats": {
+      "matches": 22,
+      "runs": 580,
+      "wickets": 15,
+      "average": 38.6
+    },
+    "id": 30
+  },
+  {
+    "name": "Vijay Shankar",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 1531,
+      "strikeRate": 132.38
+    }
+  },
+  {
+    "name": "Karun Nair",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 4129,
+      "strikeRate": 139.74
+    }
+  },
+  {
+    "name": "Basil Thampi",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 2410,
+      "strikeRate": 133.03
+    }
+  },
+  {
+    "name": "Riyan Parag",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 1172,
+      "strikeRate": 138.18
+    }
+  },
+  {
+    "name": "Suyash Sharma",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 1293,
+      "strikeRate": 141.33
+    }
+  },
+  {
+    "name": "Mukesh Choudhary",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 50,
+    "stats": {
+      "runs": 3073,
+      "strikeRate": 157.66
+    }
+  },
+  {
+    "id": 21,
+    "name": "Kamindu Mendis",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Sri Lanka",
+    "basePrice": 50,
+    "stats": {
+      "matches": 12,
+      "runs": 450,
+      "average": 45,
+      "strikeRate": 110.2
+    }
+  },
+  {
+    "id": 22,
+    "name": "Blessing Muzarabani",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Zimbabwe",
+    "basePrice": 50,
+    "stats": {
+      "matches": 42,
+      "wickets": 58,
+      "economy": 5.2,
+      "best": "4/32"
+    }
+  },
+  {
+    "name": "Mohit Sharma",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "wickets": 17,
+      "economy": 8.18
+    }
+  },
+  {
+    "name": "Venkatesh Iyer",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 3937,
+      "strikeRate": 126.35,
+      "wickets": 80,
+      "economy": 9.54
+    }
+  },
+  {
+    "name": "Matthew Wade",
+    "role": "WK-Bat",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 30,
+    "stats": {
+      "runs": 4582,
+      "strikeRate": 131.27
+    }
+  },
+  {
+    "name": "Tom Curran",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 30,
+    "stats": {
+      "runs": 1900,
+      "strikeRate": 120.37,
+      "wickets": 101,
+      "economy": 9.68
+    }
+  },
+  {
+    "name": "Naveen-ul-Haq",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 30,
+    "stats": {
+      "wickets": 95,
+      "economy": 9.03
+    }
+  },
+  {
+    "name": "Manish Pandey",
+    "role": "WK-Bat",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 2487,
+      "strikeRate": 147.32
+    }
+  },
+  {
+    "name": "Mandeep Singh",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "wickets": 93,
+      "economy": 7.71
+    }
+  },
+  {
+    "name": "Akash Deep",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 3029,
+      "strikeRate": 155.28,
+      "wickets": 84,
+      "economy": 8.63
+    }
+  },
+  {
+    "name": "Vaibhav Arora",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 345,
+      "strikeRate": 149.65,
+      "wickets": 44,
+      "economy": 7.99
+    }
+  },
+  {
+    "name": "Harshit Rana",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "matches": 21,
+      "runs": 57,
+      "wickets": 26,
+      "economy": 8.35
+    }
+  },
+  {
+    "name": "Ricky Bhui",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 4462,
+      "strikeRate": 129.67
+    }
+  },
+  {
+    "name": "Rasikh Dar",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 4195,
+      "strikeRate": 150.53,
+      "wickets": 142,
+      "economy": 7.55
+    }
+  },
+  {
+    "name": "Swastik Chikara",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "runs": 1438,
+      "strikeRate": 133.44,
+      "wickets": 50,
+      "economy": 9.91
+    }
+  },
+  {
+    "name": "Anshul Kamboj",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 30,
+    "stats": {
+      "matches": 30,
+      "runs": 66,
+      "wickets": 34,
+      "economy": 8.08
+    }
+  },
+  {
+    "name": "Mohammad Nabi",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "Afghanistan",
+    "basePrice": 30,
+    "stats": {
+      "matches": 152,
+      "runs": 2448,
+      "wickets": 105,
+      "economy": 7.3
+    }
+  },
+  {
+    "id": 61,
+    "name": "Ravichandran Ashwin",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "runs": 198,
+      "strikeRate": 142.63,
+      "wickets": 87,
+      "economy": 9.22
+    }
+  },
+  {
+    "id": 72,
+    "name": "Mohammed Shami",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "wickets": 115,
+      "economy": 8.71
+    }
+  },
+  {
+    "name": "Liam Livingstone",
+    "role": "All-Rounder",
+    "nationality": "Overseas",
+    "country": "England",
+    "basePrice": 20,
+    "stats": {
+      "runs": 4856,
+      "strikeRate": 124.83,
+      "wickets": 119,
+      "economy": 7.13
+    }
+  },
+  {
+    "name": "Tim David",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 20,
+    "stats": {
+      "runs": 4669,
+      "strikeRate": 159.46
+    }
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "runs": 3819,
+      "strikeRate": 148.31,
+      "wickets": 106,
+      "economy": 8.47
+    }
+  },
+  {
+    "name": "Jhye Richardson",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Australia",
+    "basePrice": 20,
+    "stats": {
+      "wickets": 67,
+      "economy": 9.59
+    }
+  },
+  {
+    "name": "Anukul Roy",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "runs": 2170,
+      "strikeRate": 150.54,
+      "wickets": 148,
+      "economy": 8.32
+    }
+  },
+  {
+    "name": "Angkrish Raghuvanshi",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "matches": 33,
+      "runs": 685,
+      "strikeRate": 144.69
+    }
+  },
+  {
+    "name": "Chetan Sakariya",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "matches": 20,
+      "runs": 20,
+      "wickets": 20,
+      "economy": 8.62
+    }
+  },
+  {
+    "name": "Sakib Hussain",
+    "role": "Pacer",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "wickets": 9,
+      "economy": 7.19
+    }
+  },
+  {
+    "name": "Shreyas Gopal",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "runs": 810,
+      "strikeRate": 124.42
+    }
+  },
+  {
+    "name": "Dewald Brevis",
+    "role": "Batsman",
+    "nationality": "Overseas",
+    "country": "South Africa",
+    "basePrice": 20,
+    "stats": {
+      "matches": 35,
+      "runs": 1046,
+      "strikeRate": 156.12
+    }
+  },
+  {
+    "name": "Sameer Rizvi",
+    "role": "Batsman",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "matches": 30,
+      "runs": 504,
+      "strikeRate": 129.5
+    }
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "role": "Pacer",
+    "nationality": "Overseas",
+    "country": "Bangladesh",
+    "basePrice": 20,
+    "stats": {
+      "matches": 103,
+      "runs": 112,
+      "wickets": 158,
+      "economy": 7.75
+    }
+  },
+  {
+    "name": "Rajvardhan Hangargekar",
+    "role": "All-Rounder",
+    "nationality": "Indian",
+    "country": "India",
+    "basePrice": 20,
+    "stats": {
+      "matches": 16,
+      "runs": 28,
+      "wickets": 14,
+      "economy": 8.25
+    }
+  }
+]
